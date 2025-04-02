@@ -12,7 +12,7 @@ None
 
 ## Future Development
 
-None
+Will add procedural generation and materials
 
 ## Created by 
- 
+ Samuel Styer
